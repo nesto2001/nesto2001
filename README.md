@@ -9,7 +9,7 @@
 
 <h2>Top Language</h2>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesto2001&theme=react&exclude_repo=didongviet,pharmacy,vegansociety)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Languages and Tools</h2>
 <p float=left>
