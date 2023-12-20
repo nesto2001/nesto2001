@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello there, I'm Tan Long or you can call me Nesto :wave:</h2>
 
-<p align="center"><b>I'm a developer major in Software Engineering and currently pursuing a bachelor's degree. To create anything that improve the quality of life of people is what I'm passionate about!</b></p></br>
+<p align="center"><b>I'm a developer major in Software Engineering with a bachelor's degree. To create anything that improve the quality of life of people is what I'm passionate about!</b></p></br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesto2001&theme=react)](https://github.com/anuraghazra/github-readme-stats)
